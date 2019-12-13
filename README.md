@@ -1,7 +1,6 @@
 # vue-app-demo
 
-> App demo em Vue
-App demo em Vue para testar a utilização de diretivas.
+> App demo em Vue para testar a utilização de diretivas.
 
 ## Build Setup
 
